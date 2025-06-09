@@ -18,3 +18,6 @@ Ini adalah proyek API sederhana yang dibuat menggunakan PHP native untuk mengelo
 # Endpoints API
 
 1. Mendapatkan Semua Pengguna
+- Method: GET
+- Endpoint: /users
+- Contoh URL: http://localhost/response-api-sederhana/index.php?path=users
