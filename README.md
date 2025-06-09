@@ -27,7 +27,7 @@ Ini adalah proyek API sederhana yang dibuat menggunakan PHP native untuk mengelo
 2. Membuat Pengguna Baru
 - Method: POST
 - Endpoint: /users
-- Contoh URL: (https://github.com/well36755/api-sederhana)
+- Contoh URL: http://localhost/response-api-sederhana/index.php?path=users
 ![WhatsApp Image 2025-06-09 at 11 46 51_bdcc49e1](https://github.com/user-attachments/assets/2cd93730-9f5b-463c-92dd-1f3a7ff89f71)
 
 ![WhatsApp Image 2025-06-09 at 11 50 07_2813872e](https://github.com/user-attachments/assets/8e52e6a6-42bd-4fdc-b1b5-ff2f6287e0b8)
@@ -35,5 +35,9 @@ Ini adalah proyek API sederhana yang dibuat menggunakan PHP native untuk mengelo
 3. Mengubah Data Pengguna(Update)
 - Method: PUT
 - Endpoint: /users
-- Contoh URL:
+- Contoh URL: http://localhost/response-api-sederhana/index.php?path=users/6
+
+![WhatsApp Image 2025-06-09 at 11 57 12_e2e2ecd2](https://github.com/user-attachments/assets/8349b8f3-3ed4-4b72-b463-39866209c047)
+
+![WhatsApp Image 2025-06-09 at 11 57 58_10b20974](https://github.com/user-attachments/assets/4d5b304f-61c1-4c79-bb7c-0528b6e3e0f0)
 
