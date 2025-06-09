@@ -6,3 +6,4 @@ Ini adalah proyek API sederhana yang dibuat menggunakan PHP native untuk mengelo
 - Server Apache (via XAMPP)
 - MySQL / MariaDB
 
+# Instalasi
