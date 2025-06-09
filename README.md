@@ -32,5 +32,8 @@ Ini adalah proyek API sederhana yang dibuat menggunakan PHP native untuk mengelo
 
 ![WhatsApp Image 2025-06-09 at 11 50 07_2813872e](https://github.com/user-attachments/assets/8e52e6a6-42bd-4fdc-b1b5-ff2f6287e0b8)
 
-
+3. Mengubah Data Pengguna(Update)
+- Method: PUT
+- Endpoint: /users
+- Contoh URL:
 
