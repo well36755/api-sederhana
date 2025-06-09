@@ -41,3 +41,13 @@ Ini adalah proyek API sederhana yang dibuat menggunakan PHP native untuk mengelo
 Setelah Method PUT di request maka perubahan dapat dilihat pada database
 ![WhatsApp Image 2025-06-09 at 11 57 58_10b20974](https://github.com/user-attachments/assets/4d5b304f-61c1-4c79-bb7c-0528b6e3e0f0)
 
+4. Menghapus Data Pengguna
+- Method: DELETE
+- Endpoint: /users
+- Contoh URL: http://localhost/response-api-sederhana/index.php?path=users/6
+
+![WhatsApp Image 2025-06-09 at 11 58 58_7805701a](https://github.com/user-attachments/assets/82a88157-fb78-4768-8ae8-0452b777d6a4)
+Setelah Method DELETE di request maka perubahan dapat dilihat pada database
+![WhatsApp Image 2025-06-09 at 11 59 24_481d9854](https://github.com/user-attachments/assets/a3d1060b-0d59-491b-86e8-c1d7e9217e35)
+
+
