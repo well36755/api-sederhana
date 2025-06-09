@@ -38,6 +38,6 @@ Ini adalah proyek API sederhana yang dibuat menggunakan PHP native untuk mengelo
 - Contoh URL: http://localhost/response-api-sederhana/index.php?path=users/6
 
 ![WhatsApp Image 2025-06-09 at 11 57 12_e2e2ecd2](https://github.com/user-attachments/assets/8349b8f3-3ed4-4b72-b463-39866209c047)
-
+Setelah Method PUT di request maka perubahan dapat dilihat pada database
 ![WhatsApp Image 2025-06-09 at 11 57 58_10b20974](https://github.com/user-attachments/assets/4d5b304f-61c1-4c79-bb7c-0528b6e3e0f0)
 
