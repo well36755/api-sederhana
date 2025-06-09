@@ -17,4 +17,4 @@ Ini adalah proyek API sederhana yang dibuat menggunakan PHP native untuk mengelo
 
 # Endpoints API
 
-#1. Mendapatkan Semua Pengguna
+1. Mendapatkan Semua Pengguna
