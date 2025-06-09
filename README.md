@@ -24,4 +24,13 @@ Ini adalah proyek API sederhana yang dibuat menggunakan PHP native untuk mengelo
 
 ![WhatsApp Image 2025-06-09 at 11 49 05_5da0669c](https://github.com/user-attachments/assets/3001550d-7bfb-41a9-92e9-3621ddb6ede3)
 
+2. Membuat Pengguna Baru
+- Method: POST
+- Endpoint: /users
+- Contoh URL: (https://github.com/well36755/api-sederhana)
+![WhatsApp Image 2025-06-09 at 11 46 51_bdcc49e1](https://github.com/user-attachments/assets/2cd93730-9f5b-463c-92dd-1f3a7ff89f71)
+
+![WhatsApp Image 2025-06-09 at 11 50 07_2813872e](https://github.com/user-attachments/assets/8e52e6a6-42bd-4fdc-b1b5-ff2f6287e0b8)
+
+
 
