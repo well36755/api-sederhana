@@ -14,3 +14,7 @@ Ini adalah proyek API sederhana yang dibuat menggunakan PHP native untuk mengelo
 5. Sesuaikan koneksi database di dalam file config.php.
 6. Jalankan server Apache dan MySQL melalui laragon Control Panel.
 7. API siap diakses melalui [http://localhost/response-api-sederhana/.](https://github.com/well36755/api-sederhana)
+
+# Endpoints API
+
+#1. Mendapatkan Semua Pengguna
