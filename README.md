@@ -21,3 +21,7 @@ Ini adalah proyek API sederhana yang dibuat menggunakan PHP native untuk mengelo
 - Method: GET
 - Endpoint: /users
 - Contoh URL: http://localhost/response-api-sederhana/index.php?path=users
+
+![WhatsApp Image 2025-06-09 at 11 49 05_5da0669c](https://github.com/user-attachments/assets/3001550d-7bfb-41a9-92e9-3621ddb6ede3)
+
+
